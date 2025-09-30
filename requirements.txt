@@ -1,0 +1,6 @@
+cryptography>=3.4.8
+rich>=10.0.0
+questionary>=1.10.0
+reportlab>=3.6.8
+qrcode[pil]>=7.3.1
+Pillow>=8.3.0
