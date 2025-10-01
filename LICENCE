@@ -1,0 +1,57 @@
+EDU-NC RESPONSIBLE‑USE LICENSE v1.0
+Copyright (c) 2024–2025 SafeRansomwareLab Contributors
+
+Preamble
+This software is provided exclusively for education, academic research, and defensive cybersecurity training in controlled environments. It must never be used to harm, extort, disrupt, or otherwise impact real users, systems, or data.
+
+1) Permission (What you MAY do)
+   a. Use, study, run, and demonstrate the software for non‑commercial educational purposes.
+   b. Modify the source code and create derivative works solely for the purposes above.
+   c. Share and redistribute unmodified or modified versions for the purposes above, provided you include:
+      - This license text in full, and
+      - Clear, prominent notice of the restrictions and disclaimers.
+
+2) Conditions
+   a. Attribution: You must preserve copyright notices and acknowledge “SafeRansomwareLab” in documentation and training materials.
+   b. Notice of Changes: If you modify the software, you must state the changes you made and the date.
+   c. Same Terms: Redistributed derivatives must remain under this exact license.
+
+3) Strict Restrictions (What you MUST NOT do)
+   a. No Commercial Use: You may not sell, rent, lease, offer as a service (SaaS), monetize, or use this software in any for‑profit context.
+   b. No Malicious Use: You may not use this software to commit, facilitate, or simulate harmful activity against real persons, organizations, or systems.
+   c. No Production Deployment: Do not run this software on production systems or with real data. Use only in isolated lab environments you control.
+   d. No Third‑Party Targeting: Do not point the tool at systems you do not own or lack explicit, written authorization to test.
+   e. No Data Abuse: Do not encrypt, destroy, exfiltrate, or manipulate real data.
+   f. No Circumvention: Do not remove, disable, or bypass built‑in safety checks, warnings, or safeguards.
+   g. No Export Violations: Comply with all applicable laws on export, sanctions, dual‑use, and cybersecurity tooling.
+
+4) Safety & Compliance Requirements
+   a. Maintain logs of demonstrations and keep them available for audit in your organization or course.
+   b. Provide clear safety briefings and recovery instructions to participants.
+   c. Ensure a working recovery path exists before any demonstration (e.g., decryptors, backups, snapshots).
+   d. Follow institutional review and legal authorization processes where applicable.
+
+5) Disclaimer of Warranty
+   THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON‑INFRINGEMENT. YOU ASSUME ALL RISK FOR USING THE SOFTWARE.
+
+6) Limitation of Liability
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+   OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   THIS INCLUDES (WITHOUT LIMITATION) LOSS OF DATA, BUSINESS INTERRUPTION, SECURITY INCIDENTS,
+   OR REGULATORY PENALTIES.
+
+7) Termination
+   Your rights under this license automatically terminate if you breach any term. Upon termination, you must cease use and distribution and destroy copies in your possession, except where retention is required by law.
+
+8) Definitions
+   - “Non‑commercial” means use with no direct or indirect commercial advantage or monetary compensation.
+   - “Controlled environment” means an isolated lab or test system you own or are explicitly authorized to operate.
+   - “Derivative work” means any modification, adaptation, or larger work including this software.
+
+9) Severability & Jurisdiction
+   If any provision is unenforceable, the remaining provisions remain in effect. You are responsible for complying with the laws of your jurisdiction.
+
+By using, copying, modifying, or distributing this software, you agree to the terms above.
