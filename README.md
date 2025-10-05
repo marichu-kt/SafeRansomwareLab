@@ -131,6 +131,25 @@ TARGET_EXTENSIONS = {
 
 ---
 
+## 📄 INSTRUCCIONES_RESCATE.pdf
+
+Archivo de ejemplo con las instrucciones completas para la recuperación de archivos encriptados, simula un PDF de un rescate real por parte de una hacker. 
+
+[🔓 Abrir instrucciones de rescate](./INSTRUCCIONES_RESCATE.pdf)
+
+Ejemplo: para recuperarlos, **sigue estas instrucciones al pie de la letra**:
+
+1. **Descarga el Navegador Tor** desde el sitio oficial para acceder de forma anónima:  
+   👉 [https://www.torproject.org/es/download/](https://www.torproject.org/es/download/)
+
+2. **Accede a nuestro servicio en la Dark Web** utilizando la siguiente dirección **.onion**:  
+   🔗 `http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.onion` *(Dirección .onion de ejemplo)*
+
+3. **Realiza el pago en Bitcoin (BTC)** a la dirección única que se muestra (texto/QR).  
+   Para tu comodidad, puedes escanear el **código QR** con tu billetera para completar la transacción rápidamente.
+
+---
+
 ## 📫 Contact
 
 Si tienes dudas o deseas aportar sugerencias puedes escribirme a: [marichu.private@proton.me](mailto:marichu.private@proton.me)
