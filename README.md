@@ -135,7 +135,7 @@ TARGET_EXTENSIONS = {
 
 Archivo de ejemplo con las instrucciones completas para la recuperación de archivos encriptados, simula un PDF de un rescate real por parte de una hacker. 
 
-[🔓 Abrir instrucciones de rescate](./INSTRUCCIONES_RESCATE.pdf)
+[🔓 Abrir instrucciones de rescate ejemplo](./INSTRUCCIONES_RESCATE.pdf)
 
 Ejemplo: para recuperarlos, **sigue estas instrucciones al pie de la letra**:
 
