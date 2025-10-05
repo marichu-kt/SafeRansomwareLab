@@ -39,34 +39,43 @@ Pillow>=8.3.0
 
 ## 🖼️ Galería de la Demo **SafeRansomwareLab**
 
-**1. Archivos Desencriptados** • **2. Archivos Encriptados**  
-![0-archivos-desencriptados](./images/0-archivos-desencriptados.png)![4-archivos-encriptados](./images/4-archivos-encriptados.png)
-
-1. **Archivos Desencriptados**  
-   ![0-archivos-desencriptados](./images/0-archivos-desencriptados.png)
-
-2. **Menú Principal**  
+1. **Menú Principal**  
    ![1-menu-principal](./images/1-menu-principal.png)
 
-3. **Menú Principal – Opción 1**  
+2. **Menú Principal – Opción 1**  
    ![2-menu-principal-opcion-1](./images/2-menu-principal-opcion-1.png)
 
-4. **Menú Principal – Opción 1 (Fin)**  
+3. **Menú Principal – Opción 1 (Fin)**  
    ![3-menu-principal-opcion-1-fin](./images/3-menu-principal-opcion-1-fin.png)
 
-5. **Archivos Encriptados**  
-   ![4-archivos-encriptados](./images/4-archivos-encriptados.png)
+4. **Archivos Desencriptados** ➡️ **2. Archivos Encriptados** 
+   <table>
+      <tr>
+      <td width="50%">
+      
+      **1. Archivos Desencriptados**  
+      <img src="./images/0-archivos-desencriptados.png" width="100%">
+      
+      </td>
+      <td width="50%">
+      
+      **2. Archivos Encriptados**  
+      <img src="./images/4-archivos-encriptados.png" width="100%">
+      
+      </td>
+      </tr>
+   </table>
 
-6. **Archivos – Recuperación**  
+5. **Archivos – Recuperación**  
    ![5-archivos-recuperacion](./images/5-archivos-recuperacion.png)
 
-7. **Menú Principal – Opción 2**  
+6. **Menú Principal – Opción 2**  
    ![6-menu-principal-opcion-2](./images/6-menu-principal-opcion-2.png)
 
-8. **Menú Secundario**  
+7. **Menú Secundario**  
    ![7-menu-secundario](./images/7-menu-secundario.png)
 
-9. **Menú Secundario – S**  
+8. **Menú Secundario – S**  
    ![8-menu-secundario-S](./images/8-menu-secundario-S.png)
 
 
