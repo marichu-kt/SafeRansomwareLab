@@ -39,6 +39,9 @@ Pillow>=8.3.0
 
 ## 🖼️ Galería de la Demo **SafeRansomwareLab**
 
+**1. Archivos Desencriptados** • **2. Archivos Encriptados**  
+![0-archivos-desencriptados](./images/0-archivos-desencriptados.png)![4-archivos-encriptados](./images/4-archivos-encriptados.png)
+
 1. **Archivos Desencriptados**  
    ![0-archivos-desencriptados](./images/0-archivos-desencriptados.png)
 
