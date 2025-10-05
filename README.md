@@ -54,8 +54,8 @@ Pillow>=8.3.0
       <td width="50%">
             <img src="./images/0-archivos-desencriptados.png" width="100%">
       </td>
-      <td width="50%">
-            <img src="./images/4-archivos-encriptados.png" width="100%">
+      <td width="75%">
+            <img src="./images/4-archivos-encriptados.png" width="150%">
       </td>
       </tr>
    </table>
