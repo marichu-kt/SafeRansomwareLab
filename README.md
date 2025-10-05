@@ -23,37 +23,19 @@ qrcode[pil]>=7.3.1
 Pillow>=8.3.0
 ```
 
----
-
-### 🗃️ Archivos Generados
+### 🗃️ Archivos generados tras el cifrado/captura de los archivos
 - `private_key.pem`: Clave privada RSA (recuperación)  
 - `public_key.pem`: Clave pública RSA (cifrado)  
-- `INSTRUCCIONES_RESCATE.pdf`: PDF de “rescate” simulado  
-- `README_RECOVER.txt`: Instrucciones de recuperación  
+- `INSTRUCCIONES_RESCATE.pdf`: PDF de “rescate” simulado con los pasos a seguir
 
----
+## 🔐 Especificaciones Criptográficas Usadas
 
-## 🔬 Explicación Técnica
-
-### 🧩 Arquitectura de Cifrado Híbrido
-**Flujo por archivo:**
-1. Generar clave AES‑256 única  
-2. Cifrar archivo con AES‑256‑CBC  
-3. Cifrar clave AES con RSA‑2048  
-4. Guardar: `IV + len(clave_AES_cifrada) + clave_AES_cifrada + datos_cifrados`
-
-**Estructura del archivo cifrado:**  
-`[16 bytes: IV] + [4 bytes: longitud clave] + [N bytes: clave cifrada] + [M bytes: datos cifrados]`
-
-### 🔐 Algoritmos Implementados
-| Algoritmo     | Uso                      | Seguridad |
-|---------------|---------------------------|-----------|
-| RSA‑2048      | Cifrado de claves AES     | ~112 bits |
-| AES‑256‑CBC   | Cifrado de datos          | 256 bits  |
-| OAEP Padding  | Padding RSA               | Anti‑ataques |
-| PKCS7         | Padding AES               | Estándar  |
-
----
+| Componente | Algoritmo | Parámetros | Propósito | Nivel de Seguridad |
+|------------|-----------|------------|-----------|-------------------|
+| **Cifrado de Datos** | AES-256 | CBC Mode, PKCS7 Padding | Cifrado eficiente de archivos | 256 bits |
+| **Intercambio de Claves** | RSA-2048 | OAEP with SHA-256 | Protección segura de claves AES | ~112 bits |
+| **Generación de IV** | CSPRNG | 16 bytes | Unicidad por archivo | 128 bits |
+| **Padding Asimétrico** | RSA-OAEP | MGF1 SHA-256 | Prevención de ataques | Estándar PKCS#1 |
 
 ## 🖼️ Galería del Sistema
 
