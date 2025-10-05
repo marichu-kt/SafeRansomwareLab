@@ -8,7 +8,7 @@ Laboratorio Seguro para Simulación Educativa de Ransomware - **Cifrado Híbrido
 
 
 > [!WARNING]  
->🚨 **AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **Los desarrolladores no se hacen responsables del uso indebido.**
+>**AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **Los desarrolladores no se hacen responsables del uso indebido.**
 
 ---
 
