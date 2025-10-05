@@ -43,28 +43,35 @@ Pillow>=8.3.0
    
    ![1-menu-principal](./images/1-menu-principal.png)
 
-3. **Menú Principal – Opción 1**  
+2. **Pantalla de confirmación**, donde el usuario valida la ejecución segura de la simulación (opción 1).
+  
    ![2-menu-principal-opcion-1](./images/2-menu-principal-opcion-1.png)
 
-4. **Menú Principal – Opción 1 (Fin)**  
+3. **Resumen final**, donde se muestran los archivos cifrados, su tamaño y los ficheros generados tras el proceso.
+   
    ![3-menu-principal-opcion-1-fin](./images/3-menu-principal-opcion-1-fin.png)
 
-5. **Archivos Desencriptados**  ➜  **Archivos Encriptados** 
+4. **Comparativa de los archivos antes y después del cifrado**, mostrando la extensión añadida tras la encriptación.
+
    <div style="display:flex; justify-content:center; gap:10px;">
      <img src="./images/0-archivos-desencriptados.png" style="height:500px; object-fit:contain;">
      <img src="./images/4-archivos-encriptados.png" style="height:500px; object-fit:contain;">
    </div>
 
-6. **Archivos – Recuperación**  
+5. **Archivos generados para la recuperación**, incluyendo las claves RSA y las instrucciones de descifrado.
+   
    ![5-archivos-recuperacion](./images/5-archivos-recuperacion.png)
 
-7. **Menú Principal – Opción 2**  
+6. **Configuración del sistema**, donde se muestran las rutas, tipos de archivos y algoritmos (opción 2).
+
    ![6-menu-principal-opcion-2](./images/6-menu-principal-opcion-2.png)
 
-8. **Menú Secundario**  
+7. **Resumen del hackeo**, donde se muestra la cantidad de archivos cifrados y algoritmos empleados.
+
    ![7-menu-secundario](./images/7-menu-secundario.png)
 
-9. **Menú Secundario – S**  
+10. **Pantalla de recuperación**, que muestra el resumen del descifrado y la limpieza de archivos de simulación.
+
    ![8-menu-secundario-S](./images/8-menu-secundario-S.png)
 
 
