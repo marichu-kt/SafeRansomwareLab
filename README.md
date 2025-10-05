@@ -48,7 +48,7 @@ Pillow>=8.3.0
 3. **Menú Principal – Opción 1 (Fin)**  
    ![3-menu-principal-opcion-1-fin](./images/3-menu-principal-opcion-1-fin.png)
 
-4. **Archivos Desencriptados** ➡️ **2. Archivos Encriptados** 
+4. **Archivos Desencriptados**  -->  **Archivos Encriptados** 
    <div style="display:flex; justify-content:center; gap:10px;">
      <img src="./images/0-archivos-desencriptados.png" style="height:500px; object-fit:contain;">
      <img src="./images/4-archivos-encriptados.png" style="height:500px; object-fit:contain;">
