@@ -39,8 +39,7 @@ Pillow>=8.3.0
 
 ## 🖼️ Galería de la Demo **SafeRansomwareLab**
 
-1. **Menú Principal** 
-   Interfaz principal, donde el usuario puede ejecutar el "hackeo", ver los parámetros técnicos o salir del programa.
+1. **Interfaz principal**, donde el usuario puede ejecutar el "hackeo", ver los parámetros técnicos o salir del programa.
    
    ![1-menu-principal](./images/1-menu-principal.png)
 
