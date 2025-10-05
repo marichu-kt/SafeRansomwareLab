@@ -50,15 +50,16 @@ Pillow>=8.3.0
 
 4. **Archivos Desencriptados** ➡️ **2. Archivos Encriptados** 
    <table>
-      <tr>
-      <td width="50%">
-            <img src="./images/0-archivos-desencriptados.png" width="100%">
-      </td>
-      <td width="75%">
-            <img src="./images/4-archivos-encriptados.png" width="150%">
-      </td>
-      </tr>
+     <tr>
+       <td>
+         <img src="./images/0-archivos-desencriptados.png" height="250">
+       </td>
+       <td>
+         <img src="./images/4-archivos-encriptados.png" height="250">
+       </td>
+     </tr>
    </table>
+
 
 5. **Archivos – Recuperación**  
    ![5-archivos-recuperacion](./images/5-archivos-recuperacion.png)
