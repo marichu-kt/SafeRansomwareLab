@@ -75,7 +75,7 @@ Pillow>=8.3.0
 5. **Archivos generados para la recuperación**, incluyendo las claves RSA y las instrucciones de descifrado.
    
    <p align="center">
-     <img src="./images/5-archivos-recuperacion.png" alt="5-archivos-recuperacion" width="100%">
+     <img src="./images/5-archivos-recuperacion.png" alt="5-archivos-recuperacion" width="40%">
    </p>
 
 ---
