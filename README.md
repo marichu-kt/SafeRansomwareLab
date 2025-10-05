@@ -10,26 +10,8 @@
 
 ---
 
-
-> [!WARNING]  
->**AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **Los desarrolladores no se hacen responsables del uso indebido.**
-
----
-
 ## 🎯 Descripción del Proyecto
-**SafeRansomwareLab** es un simulador educativo avanzado que replica el comportamiento del ransomware moderno utilizando técnicas de cifrado híbrido (**RSA‑2048 + AES‑256‑CBC**). El proyecto está diseñado específicamente para:
-
-- Educar sobre técnicas de ransomware reales  
-- Investigar mecanismos de defensa  
-- Entrenar equipos de respuesta a incidentes  
-- Desarrollar herramientas de detección y prevención  
-
-### 🎓 Objetivos Educativos
-- Comprender el funcionamiento del cifrado híbrido  
-- Analizar vectores de ataque de ransomware  
-- Desarrollar habilidades de análisis forense  
-- Aprender técnicas de recuperación de datos  
-- Implementar estrategias de prevención  
+**SafeRansomwareLab** es un **simulador educativo de ransomware** que implementa un **sistema de cifrado híbrido** combinando RSA para el intercambio seguro de claves y AES-256 para el cifrado de archivos. Desarrollado en Python, el software simula el comportamiento de ransomware real generando un par de claves pública/privada RSA, donde la clave AES simétrica utilizada para cifrar archivos (documentos, imágenes, PDFs, comprimidos, etc.) en la carpeta `test_files` es a su vez cifrada con la clave pública RSA. El sistema incluye mecanismos de recuperación educativos que permiten descifrar los archivos utilizando la clave privada RSA correspondiente, demostrando así técnicas criptográficas avanzadas en un entorno controlado y seguro para fines de formación en ciberseguridad.
 
 ---
 
