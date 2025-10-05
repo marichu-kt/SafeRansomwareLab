@@ -41,30 +41,31 @@ Pillow>=8.3.0
 
 1. **Menú Principal** 
    Interfaz principal, donde el usuario puede ejecutar el "hackeo", ver los parámetros técnicos o salir del programa.
+   
    ![1-menu-principal](./images/1-menu-principal.png)
 
-2. **Menú Principal – Opción 1**  
+3. **Menú Principal – Opción 1**  
    ![2-menu-principal-opcion-1](./images/2-menu-principal-opcion-1.png)
 
-3. **Menú Principal – Opción 1 (Fin)**  
+4. **Menú Principal – Opción 1 (Fin)**  
    ![3-menu-principal-opcion-1-fin](./images/3-menu-principal-opcion-1-fin.png)
 
-4. **Archivos Desencriptados**  ➜  **Archivos Encriptados** 
+5. **Archivos Desencriptados**  ➜  **Archivos Encriptados** 
    <div style="display:flex; justify-content:center; gap:10px;">
      <img src="./images/0-archivos-desencriptados.png" style="height:500px; object-fit:contain;">
      <img src="./images/4-archivos-encriptados.png" style="height:500px; object-fit:contain;">
    </div>
 
-5. **Archivos – Recuperación**  
+6. **Archivos – Recuperación**  
    ![5-archivos-recuperacion](./images/5-archivos-recuperacion.png)
 
-6. **Menú Principal – Opción 2**  
+7. **Menú Principal – Opción 2**  
    ![6-menu-principal-opcion-2](./images/6-menu-principal-opcion-2.png)
 
-7. **Menú Secundario**  
+8. **Menú Secundario**  
    ![7-menu-secundario](./images/7-menu-secundario.png)
 
-8. **Menú Secundario – S**  
+9. **Menú Secundario – S**  
    ![8-menu-secundario-S](./images/8-menu-secundario-S.png)
 
 
