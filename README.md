@@ -8,45 +8,12 @@
 > [!NOTE]  
 > Photo © Shutterstock
 
----
-
 ## 🎯 Descripción del Proyecto
 **SafeRansomwareLab** es un **simulador educativo de ransomware** que implementa un **sistema de cifrado híbrido** combinando RSA para el intercambio seguro de claves y AES-256 para el cifrado de archivos. Desarrollado en Python, el software simula el comportamiento de ransomware real generando un par de claves pública/privada RSA, donde la clave AES simétrica utilizada para cifrar archivos (documentos, imágenes, PDFs, comprimidos, etc.) en la carpeta `test_files` es a su vez cifrada con la clave pública RSA. El sistema incluye mecanismos de recuperación educativos que permiten descifrar los archivos utilizando la clave privada RSA correspondiente, demostrando así técnicas criptográficas avanzadas en un entorno controlado y seguro para fines de formación en ciberseguridad.
 
----
-
-## ✨ Características Principales
-
-### 🔐 Cifrado Avanzado
-- **Cifrado Híbrido:** RSA‑2048 para claves + AES‑256‑CBC para datos  
-- **Clave Única por Archivo:** Cada archivo tiene su propia clave AES  
-- **IV Aleatorio:** Vector de inicialización único por archivo  
-- **Padding PKCS7:** Estándar industrial para datos  
-
-### 🎨 Interfaz Profesional
-- **Interfaz Rich:** Consola colorida con barras de progreso  
-- **Menús Interactivos:** Navegación con *questionary*  
-- **Paneles Compactos:** Diseño eficiente sin espacio desperdiciado  
-- **Feedback en Tiempo Real:** Progreso y estadísticas inmediatas  
-
-### 📊 Funcionalidades Completas
-- **Entorno de Prueba Automático:** Genera archivos de ejemplo  
-- **PDF de Rescate:** Genera instrucciones realistas de “rescate”  
-- **Estadísticas Detalladas:** Métricas completas del proceso  
-- **Recuperación Garantizada:** Script de descifrado incluido  
-- **Limpieza Automática:** Eliminación segura de archivos temporales  
-
-### 🛡️ Características de Seguridad
-- **Aislamiento:** Solo opera en `./test_files/`  
-- **Confirmaciones Múltiples:** Verificaciones antes de ejecutar  
-- **Exclusión de Sistema:** No afecta archivos críticos  
-- **Logging Detallado:** Registro completo de actividades  
-
----
-
 ## 💻 Requisitos del Sistema
 
-### 📦 Dependencias Python
+### 📦 Requisitos del Sistema 'requirements.txt'
 ```
 cryptography>=3.4.8
 rich>=10.0.0
