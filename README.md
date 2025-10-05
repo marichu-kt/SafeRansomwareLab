@@ -1,8 +1,8 @@
 # 🔒 SafeRansomwareLab
 
 ![Banner](./images/banner-Shutterstock.png)
-
-Laboratorio Seguro para Simulación Educativa de Ransomware - **Cifrado Híbrido RSA+AES**
+> [!NOTE]  
+> Photo © Shutterstock
 
 ---
 
