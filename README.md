@@ -6,9 +6,9 @@ Laboratorio Seguro para Simulación Educativa de Ransomware - **Cifrado Híbrido
 
 ---
 
-## ⚠️ ADVERTENCIA CRÍTICA DE SEGURIDAD
 
-🚨 **AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **Los desarrolladores no se hacen responsables del uso indebido.**
+> [!WARNING]  
+>🚨 **AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **Los desarrolladores no se hacen responsables del uso indebido.**
 
 ---
 
@@ -134,3 +134,10 @@ Pillow>=8.3.0
    ![8-menu-secundario-S](./images/8-menu-secundario-S.png)
 
 
+## 📫 Contact
+
+Si tienes dudas o deseas aportar sugerencias puedes escribirme a: [marichu.private@proton.me](mailto:marichu.private@proton.me)
+
+## 📄 License
+
+Este proyecto está licenciado bajo la **Licencia MIT**. Consulte el archivo [LICENCIA](LICENCIA) para más detalles.
