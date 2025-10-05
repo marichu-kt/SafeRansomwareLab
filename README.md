@@ -13,7 +13,7 @@
 
 ## 💻 Requisitos del Sistema
 
-### 📦 Requisitos del Sistema 'requirements.txt'
+### 📦 Requisitos del Sistema `requirements.txt`
 ```
 cryptography>=3.4.8
 rich>=10.0.0
