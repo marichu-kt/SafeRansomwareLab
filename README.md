@@ -52,16 +52,10 @@ Pillow>=8.3.0
    <table>
       <tr>
       <td width="50%">
-      
-      **1. Archivos Desencriptados**  
-      <img src="./images/0-archivos-desencriptados.png" width="100%">
-      
+            <img src="./images/0-archivos-desencriptados.png" width="100%">
       </td>
       <td width="50%">
-      
-      **2. Archivos Encriptados**  
-      <img src="./images/4-archivos-encriptados.png" width="100%">
-      
+            <img src="./images/4-archivos-encriptados.png" width="100%">
       </td>
       </tr>
    </table>
