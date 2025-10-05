@@ -37,9 +37,7 @@ Pillow>=8.3.0
 | **Generación de IV** | CSPRNG | 16 bytes | Unicidad por archivo | 128 bits |
 | **Padding Asimétrico** | RSA-OAEP | MGF1 SHA-256 | Prevención de ataques | Estándar PKCS#1 |
 
-## 🖼️ Galería del Sistema
-
-> **Orden requerido:** banner → 0 → 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
+## 🖼️ Galería de la Demo **SafeRansomwareLab**
 
 1. **Archivos Desencriptados**  
    ![0-archivos-desencriptados](./images/0-archivos-desencriptados.png)
