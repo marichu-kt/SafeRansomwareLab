@@ -74,7 +74,7 @@ Pillow>=8.3.0
 
 5. **Archivos generados para la recuperación**, incluyendo las claves RSA y las instrucciones de descifrado.
    
-   <p align="center">
+   <p align="left">
      <img src="./images/5-archivos-recuperacion.png" alt="5-archivos-recuperacion" width="40%">
    </p>
 
@@ -95,6 +95,39 @@ Pillow>=8.3.0
 8. **Pantalla de recuperación**, que muestra el resumen del descifrado y la limpieza de archivos de simulación.
 
    ![8-menu-secundario-S](./images/8-menu-secundario-S.png)
+
+---
+
+## 📁 Extensiones Objetivo para Simulación (Personalizable Según el Usuario)
+
+Puedes personalizar la lista `TARGET_EXTENSIONS` según tus necesidades educativas.  
+Los ransomware reales suelen atacar extensiones de valor donde un usuario perdería información crítica.
+
+```python
+TARGET_EXTENSIONS = {
+    # Documentos y textos
+    '.pdf', '.doc', '.docx', '.ppt', '.pptx', '.xls', '.xlsx', '.odt', '.ods', '.odp', 
+    '.txt', '.rtf', '.tex', '.md',
+    
+    # Imágenes y diseños
+    '.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff', '.svg', '.raw', '.cr2', '.nef', 
+    '.arw', '.webp', '.ico', '.psd', '.ai', '.eps', '.dwg',
+    
+    # Archivos comprimidos y contenedores
+    '.zip', '.rar', '.7z', '.tar', '.gz', '.bz2', '.xz', '.iso', '.dmg', '.pkg',
+    
+    # Audio y video
+    '.mp3', '.mp4', '.avi', '.mov', '.wmv', '.flv', '.mkv', '.wav', '.flac', '.aac', 
+    '.ogg', '.m4a',
+    
+    # Bases de datos y datos estructurados
+    '.sql', '.db', '.mdb', '.accdb', '.sqlite', '.csv', '.json', '.xml',
+    
+    # Código fuente y ejecutables
+    '.py', '.js', '.html', '.css', '.php', '.cpp', '.java', '.c', '.h', '.exe', 
+    '.dll', '.msi'
+}
+```
 
 ---
 
