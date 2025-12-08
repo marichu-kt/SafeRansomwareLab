@@ -1,7 +1,7 @@
 # 🔒 SafeRansomwareLab
 
 > [!WARNING]  
->**AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código puede violar leyes locales e internacionales. **No me hago responsables del uso indebido.**
+>**AVISO IMPORTANTE:** Este software es **ÚNICAMENTE** para fines educativos en entornos controlados. El mal uso de este código viola leyes con penas de carcel. **No me hago responsables del uso indebido.**
 
 ![Banner](./images/banner-Shutterstock.png)
 
